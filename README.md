@@ -14,5 +14,5 @@ $ pip install opencv-python
 
 ### Execution
 ```console
-$ python human_detector.py {video's filename}
+$ python human_detector.py [the filename of the input video]
 ```
